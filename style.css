@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#log {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #3c3c3c;
+    color: white;
+    font-family: Cambria, Arial;
+}
+#for {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Cambria, Arial;
+    flex-direction: column;
+}
+#cad {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #3c3c3c;
+    color: white;
+    font-family: Cambria ,Arial;
+}
+#forcad {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Cambria, Arial;
+    flex-direction: column;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    height: 40vh;
+    margin-bottom: 20px;
+    font-family: Cambria, Arial;
+}
+form input {
+    outline: unset;
+    padding: 20px;
+    min-width: 250px;
+    border-radius: 20px;
+}
+form input [type=submit] {
+    background-color: #3c3c3c;
+}
+form label {
+    margin-left: 15px;
+    color: #000;
+}
+#fad {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+/*
+#volhome {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+}
+*/
